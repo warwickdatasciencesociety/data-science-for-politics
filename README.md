@@ -8,8 +8,8 @@ This repository contains presentation material for WDSS's 'Data Science for Poli
 
 You can download the presentation material above, or using the following links:
 
-- [Ben Newey](https://www.linkedin.com/in/ben-newey-01/) — [Modelling the 2019 Election]()
-- [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/) — [Predicting Approval Ratings Using Social Media Data]
+- [Ben Newey](https://www.linkedin.com/in/ben-newey-01/) — [Modelling the 2019 Election](https://github.com/warwickdatascience/data-science-for-politics/raw/master/Modelling%20the%202019%20Election.pptx)
+- [Tim Hargreaves](https://www.linkedin.com/in/tim-hargreaves/) — [Predicting Approval Ratings Using Social Media Data](https://github.com/warwickdatascience/data-science-for-politics/raw/master/Predicting%20Approval%20Ratings%20Using%20Social%20Media%20Data.pptx)
 
 To keep up-to-date with WDSS, please follow us on our social media accounts:
 
